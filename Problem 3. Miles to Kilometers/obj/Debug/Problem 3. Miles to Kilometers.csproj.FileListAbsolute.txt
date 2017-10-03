@@ -1,0 +1,6 @@
+D:\Projects C#\Problem 1. Debit Card Number\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.exe.config
+D:\Projects C#\Problem 1. Debit Card Number\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.exe
+D:\Projects C#\Problem 1. Debit Card Number\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.pdb
+D:\Projects C#\Problem 1. Debit Card Number\Problem 3. Miles to Kilometers\obj\Debug\Problem 3. Miles to Kilometers.csproj.CoreCompileInputs.cache
+D:\Projects C#\Problem 1. Debit Card Number\Problem 3. Miles to Kilometers\obj\Debug\Problem_3.Miles_to_Kilometers.exe
+D:\Projects C#\Problem 1. Debit Card Number\Problem 3. Miles to Kilometers\obj\Debug\Problem_3.Miles_to_Kilometers.pdb

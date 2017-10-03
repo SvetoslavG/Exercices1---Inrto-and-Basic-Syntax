@@ -1,0 +1,7 @@
+D:\Projects C#\Problem 1. Debit Card Number\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.exe.config
+D:\Projects C#\Problem 1. Debit Card Number\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.exe
+D:\Projects C#\Problem 1. Debit Card Number\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.pdb
+D:\Projects C#\Problem 1. Debit Card Number\Problem 5. Character Stats\obj\Debug\Problem 5. Character Stats.csprojResolveAssemblyReference.cache
+D:\Projects C#\Problem 1. Debit Card Number\Problem 5. Character Stats\obj\Debug\Problem 5. Character Stats.csproj.CoreCompileInputs.cache
+D:\Projects C#\Problem 1. Debit Card Number\Problem 5. Character Stats\obj\Debug\Problem_5.Character_Stats.exe
+D:\Projects C#\Problem 1. Debit Card Number\Problem 5. Character Stats\obj\Debug\Problem_5.Character_Stats.pdb
